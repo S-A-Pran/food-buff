@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Otomanopee One', sans-serif;
+}
+.top-bar{
+    background-color: rgb(248, 162, 152);
+    display: flex;
+    height: 110px;
+}
+.topbar-first{
+    
+    display: flex;
+    width: 50%;
+}
+.topbar-content{
+  
+    display: flex;
+    width: 50%;
+}
+.topbar-logo img{
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.topbar-writing h3{
+   margin-top: 30px;
+   margin-left: 10px;
+}
+
+.topbar-writing p{
+    font-weight: 100;
+    margin-left: 10px;
+}
