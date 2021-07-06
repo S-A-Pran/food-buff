@@ -73,3 +73,29 @@ body{
     text-decoration: none;
     color: white;
 }
+
+
+
+.section-one{
+    display: flex;
+}
+.sectionone-content{
+    width: 50%;
+    padding: 5%;
+    height: 150%;
+}
+.sectionone-content img{
+    width: 70%;
+}
+.orange{
+    color: orangered;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    background-image: linear-gradient(orangered, orange);
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px gray;
+    margin-top: 30px;
+}
