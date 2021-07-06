@@ -113,12 +113,40 @@ body{
     padding: 5%;
 }
 .sectiontwo-content img{
-    width: 80%;
-    height: 100%;
+    width: 75%;
+    height: 118.5%;
 }
-.sectiontwo-content h1{
+.sectiontwo-content h2{
     margin-top: 40px;
 }
 .para{
-    margin-bottom: 50px;
+    margin-bottom: 80px;
+}
+
+
+
+.section-three{
+    margin-top: 100px;
+}
+.content-one{
+    text-align: center;
+}
+.content-one p{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.content-two{
+    display: flex;
+}
+.content-two img{
+    width: 100%;
+    height: 50%;
+}
+
+.items{
+    width: 80%;
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 20px;
+    margin: 3%;
+    padding: 1%;
 }
