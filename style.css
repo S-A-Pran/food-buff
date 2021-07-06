@@ -6,6 +6,8 @@ body{
 }
 .top-bar{
     background-color: rgb(248, 162, 152);
+    border-end-start-radius: 40px;
+    border-end-end-radius: 40px;
     display: flex;
     height: 110px;
 }
@@ -92,7 +94,7 @@ body{
 }
 .btn{
     text-decoration: none;
-    padding: 10px;
+    padding: 15px;
     color: white;
     background-image: linear-gradient(orangered, orange);
     border-radius: 20px;
@@ -127,6 +129,7 @@ body{
 
 .section-three{
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 .content-one{
     text-align: center;
@@ -149,4 +152,60 @@ body{
     border-radius: 20px;
     margin: 3%;
     padding: 1%;
+}
+
+
+
+
+
+.feedback-section{
+    padding: 5%;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+}
+.feedback-container{
+    display: flex;
+    margin-top: 1%;
+}
+.feedback-section h2{
+    text-align: center;
+}
+.feedback-section p{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.input{
+    background-color: rgb(245, 148, 112);
+    border-radius: 10px;
+    width: 100%;
+}
+.field{
+    height: 25px;
+}
+.form{
+    width: 50%;
+    text-align: center;
+    padding-left: 20%;
+}
+.button{
+    padding-top: 15%;
+    padding-left: 10%;
+    width: 50%;
+}
+.feedback-food{
+    width: 30%;
+}
+.button a{
+    height: 50px;
+}
+
+.feedback-food img{
+    width: 150%;
+    margin-top: 20%;
+    border-radius: 48%;
+    
+
 }
