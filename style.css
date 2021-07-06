@@ -237,9 +237,8 @@ body{
 
 .footer{
     margin-top: 100px;
-    height: 30vh;
-    background-color: darkslategrey;
-    
+    height: 200px;
+    background-color: darkslategrey;  
 }
 .footer-content{
     text-align: center;
